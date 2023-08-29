@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **BitcoinJS**
+- 🔭 I’m currently working on **BitcoinJS, rust-bitcoin, and mempool**
 - 🌱 I’m currently learning **Rust + WASM**
 - 👯 I’m looking to collaborate on **Projects that help support freedom**
 - 🤔 I’m looking for help with **ESM modules support in BitcoinJS**
