@@ -1,9 +1,10 @@
-### Hi there 👋
+### All about me
 
-- 🔭 I’m currently working on **BitcoinJS, rust-bitcoin, and mempool**
-- 🌱 I’m currently learning **Rust + WASM**
-- 👯 I’m looking to collaborate on **Projects that help support freedom**
-- 🤔 I’m looking for help with **ESM modules support in BitcoinJS**
-- 💬 Ask me about **Bitcoin**
-- 📫 How to reach me: **My email, it's available on my profile**
-- ⚡ Fun fact: **I am a long-time resident of Japan and speak Japanese fluently**
+* I am a naturalized Japanese citizen
+* I have lived my whole adult life after college in Japan
+* I love my family
+* I love Japan
+* I love Bitcoin
+* I have been working on Bitcoin related open source projects since 2013
+* I love Rust
+* I love Yubikeys
